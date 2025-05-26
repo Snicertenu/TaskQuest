@@ -27,7 +27,7 @@ A gamified task management application that combines productivity with RPG eleme
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/TaskQuest.git
+git clone https://github.com/Snicertenu/TaskQuest.git
 cd TaskQuest
 ```
 
